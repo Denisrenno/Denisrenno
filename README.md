@@ -5,11 +5,7 @@
 
 Here are some ideas to get you started:
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Denisrenno.Denisrenno)
-
-[![Github](https://img.shields.io/github/followers/Denisrenno?label=Follow&style=social)](https://github.com/Denisrenno)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denisrenno&theme=tokyonight)
+![](https://visitor-badge.laobi.icu/badge?page_id=Denisrenno.Denisrenno) [![Github](https://img.shields.io/github/followers/Denisrenno?label=Followers&logo=Github)](https://github.com/Denisrenno)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -33,5 +29,5 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-2019/visual-studio-2019.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
 
