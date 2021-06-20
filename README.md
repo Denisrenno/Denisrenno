@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-[![Ubuntu](https://github.com/YarikTH/ureact/actions/workflows/ubuntu.yml/badge.svg)](https://github.com/YarikTH/ureact/actions/workflows/ubuntu.yml)
-[![Windows](https://github.com/YarikTH/ureact/actions/workflows/windows.yml/badge.svg)](https://github.com/YarikTH/ureact/actions/workflows/windows.yml)
-[![MacOS](https://github.com/YarikTH/ureact/actions/workflows/macos.yml/badge.svg)](https://github.com/YarikTH/ureact/actions/workflows/macos.yml)
-
 [![Standard](https://img.shields.io/badge/c%2B%2B-11/14/17/20-blue.svg)](https://en.wikipedia.org/wiki/C%2B%2B#Standardization)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](.)
 ![](https://visitor-badge.laobi.icu/badge?page_id=Denisrenno.Denisrenno) [![Github](https://img.shields.io/github/followers/Denisrenno?label=Followers&logo=Github)](https://github.com/Denisrenno)
