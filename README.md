@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<p align="center"><img src="support/data/logo/logo_1.svg"></p>
-
 [![Ubuntu](https://github.com/YarikTH/ureact/actions/workflows/ubuntu.yml/badge.svg)](https://github.com/YarikTH/ureact/actions/workflows/ubuntu.yml)
 [![Windows](https://github.com/YarikTH/ureact/actions/workflows/windows.yml/badge.svg)](https://github.com/YarikTH/ureact/actions/workflows/windows.yml)
 [![MacOS](https://github.com/YarikTH/ureact/actions/workflows/macos.yml/badge.svg)](https://github.com/YarikTH/ureact/actions/workflows/macos.yml)
@@ -11,7 +9,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](.)
 ![](https://visitor-badge.laobi.icu/badge?page_id=Denisrenno.Denisrenno) [![Github](https://img.shields.io/github/followers/Denisrenno?label=Followers&logo=Github)](https://github.com/Denisrenno)
 
-[![Workflow](https://github.com/denisrenno/denisrenno/actions/workflows/rust.yml/badge.svg]
+[![Rust Actions Status](https://github.com/denisrenno/denisrenno/actions/workflows/rust/badge.svg]
 
 <!--
 **Denisrenno/Denisrenno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
