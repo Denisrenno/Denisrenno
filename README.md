@@ -8,11 +8,10 @@
 [![Language grade: C/C++](https://img.shields.io/lgtm/grade/cpp/g/YarikTH/ureact.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/YarikTH/ureact/context:cpp)
 
 [![Standard](https://img.shields.io/badge/c%2B%2B-11/14/17/20-blue.svg)](https://en.wikipedia.org/wiki/C%2B%2B#Standardization)
-[![Type](https://img.shields.io/badge/type-single--header-blue.svg)](.)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](.)
 ![](https://visitor-badge.laobi.icu/badge?page_id=Denisrenno.Denisrenno) [![Github](https://img.shields.io/github/followers/Denisrenno?label=Followers&logo=Github)](https://github.com/Denisrenno)
 
-
+[![Build Status](https://travis-ci.org/denisrenno/denisrenno.png?branch=master)](https://travis-ci.org/denisrenn/denisrenno)
 
 <!--
 **Denisrenno/Denisrenno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
