@@ -9,6 +9,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](.)
 ![](https://visitor-badge.laobi.icu/badge?page_id=Denisrenno.Denisrenno) [![Github](https://img.shields.io/github/followers/Denisrenno?label=Followers&logo=Github)](https://github.com/Denisrenno)
 
+[![Rust](https://github.com/Denisrenno/Denisrenno/actions/workflows/rust.yml/badge.svg)](https://github.com/Denisrenno/Denisrenno/actions/workflows/rust.yml)
+
 <!--
 **Denisrenno/Denisrenno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
